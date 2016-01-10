@@ -1,0 +1,88 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html
+    {
+      height: 100%;
+    }
+    body
+    {
+       height: 100%;
+    }
+
+    header
+    {
+        background-color:#C2667D;
+        text-align: center;
+        padding:5px;
+        font-size:39px ;
+        width: 98%;
+        border: 10px solid #608F87
+    }
+
+    nav
+    {
+        line-height:20px;
+        background-color:#608F87;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul
+    {
+        list-style-type: none;
+    }
+    a
+    {
+        color: ;
+    }
+    section
+    {
+        width: 80%;
+        display: inline-block;
+    }
+    aside
+    {
+      width: 175px;
+      background-color:#608F87;
+      display: inline-block;
+      vertical-align: top;
+      font-size:20 ;
+    }
+    aside ul
+    {
+        list-style-type: none;
+    }
+    footer
+    {
+        width: 98%;
+        background-color:#608F87;
+        font-size: 11px;
+        padding: ;
+        display: block;
+        text-align: right;
+    }
+    img
+    {
+      float: left;
+      margin-right: 10px;
+      margin-bottom: 15px;
+    }
+
+    div
+    {
+      display:inline-block
+    }
+    #sidebar
+    {
+      display: flex;
+      justify-content: ;
+      flex-direction: row;
+      font-size: 25;
+      color: ;
+      background-color: #608F87;
+    }
+
+    .names {font-size: 32px}
+    .insidenames {font-size: 12px}
